@@ -51,8 +51,6 @@ ul > div {
     margin-top: 100px;
     color: white;
     font-size: 44px;
-   
-
 }
 
  .paragraphDiv {
@@ -124,6 +122,10 @@ div > li:hover {
     flex-direction: column;
     position: absolute;
     right: 40px;
-    bottom: 70px;
+    bottom: 60px;
+}
+
+.lastul:hover{
+    cursor: pointer;
 }
 
